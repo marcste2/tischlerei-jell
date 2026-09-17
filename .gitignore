@@ -1,0 +1,11 @@
+# Nur die Website wird veroeffentlicht. Internes bleibt lokal:
+_quellen/
+_video/
+.claude/
+HINWEISE.md
+Website starten.bat
+*.zip
+
+# Betriebssystem / Editor
+Thumbs.db
+.DS_Store

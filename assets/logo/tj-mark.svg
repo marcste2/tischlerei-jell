@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 524 524" role="img" aria-label="Tischlerei Jell Monogramm">
+  <style>
+    path { fill: #3E2B14; }
+    @media (prefers-color-scheme: dark) { path { fill: #D9B88A; } }
+  </style>
+  <path d="M32 36H490L438 84H80V134H220V302L172 350V182H32Z"/>
+  <path d="M356 152V330A160 160 0 0 1 83 443L117 409A112 112 0 0 0 308 330V200Z"/>
+</svg>
